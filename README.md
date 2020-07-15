@@ -1,3 +1,3 @@
 # Site_profile
-Making my portfolio website using
+Making my portfolio website
 
